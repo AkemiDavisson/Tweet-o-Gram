@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "ApiHack";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ApiHack</title>
+    <link rel="icon" type="image/png" href="~/Content/Images/faviconAD.ico" />
+    <link rel="stylesheet" href="~/Content/Styles/ApiHack.css" />
+    <script src="~/Content/Scripts/jquery-1.9.1.js"></script>
+    <script src="~/Content/Scripts/jquery-ui-1.10.3.custom.min.js"></script>
+    <script src="~/Content/Scripts/ApiHack.js" type="text/javascript"></script>
+    <script src="~/Content/Scripts/twitter-text.js" type="text/javascript"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=9" />
+</head>
+<body>
+    <div class="wrapper">
+        <div class="testContainer">
+            <header>Twitter-Gram</header>
+            <div class="searchContainer">
+                <p id="subheader">Search <a href="#" id="hashtag"><strong>#hashtags</strong></a> from both Twitter and Instagram!</p>
+                <input type="text" id="search" placeholder="Search Twitter and Instagram Tags" />
+                <a href="#" id="searchBtn" type="submit">Search</a>
+            </div>
+            <div class="errorContainer">
+                <span id="error" class="hidden">Content Here</span>
+            </div>
+        </div>
+        <div class="trendingContainer">
+            <span class="trendHeader">Trends</span>
+        </div>
+
+        <div class="listsContainer">
+            <div class="searchingTag hidden">Currently searching</div>
+            <div id="twitterList">
+                <img class="logo" src="~/Content/Images/twitterLogo.png" alt="Twitter" />
+
+            </div>
+            <div id="instagramList">
+                <img class="logo" src="~/Content/Images/instagramLogo.png" alt="Instagram" />
+
+            </div>
+        </div>
+        <div class="btncontainer">
+            <a href="#" id="paginationBtn" type="submit">Next</a>
+        </div>
+    </div>
+    <footer>© Photo by: Trey Ratcliff</footer>
+</body>
+</html>

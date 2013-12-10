@@ -1,0 +1,5 @@
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthInstagram\obj\Release\oAuthInstagram.csprojResolveAssemblyReference.cache
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthInstagram\bin\Release\oAuthInstagram.dll
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthInstagram\bin\Release\oAuthInstagram.pdb
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthInstagram\obj\Release\oAuthInstagram.dll
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthInstagram\obj\Release\oAuthInstagram.pdb

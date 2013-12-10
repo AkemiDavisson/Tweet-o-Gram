@@ -1,0 +1,322 @@
+﻿/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+    blockquote:before, blockquote:after,
+    q:before, q:after {
+        content: '';
+        content: none;
+    }
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+div {
+    display: block;
+}
+
+body {
+    font-family: 'Microsoft JhengHei UI';
+    height: 100%;
+    text-align: center;
+    font-size: 25px;
+    min-width: 1600px;
+    background: url(/Content/Images/rangeAtNight.jpg)no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.17em;
+}
+
+h4 {
+}
+
+h5 {
+    font-size: .83em;
+}
+
+h6 {
+    font-size: .75em;
+}
+
+.wrapper {
+    min-height: 300px;
+    min-width: 1500px;
+    margin: 15px 100px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: rgba(182, 205, 218, 0.5);
+}
+
+header {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-family: 'Microsoft JhengHei UI';
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.searchContainer {
+    margin-bottom: 20px;
+}
+
+
+#subheader {
+    margin-bottom: 30px;
+}
+
+#search {
+    width: 500px;
+    margin: auto;
+    padding: 5px 10px;
+    font-size: 25px;
+    border-radius: 5px;
+    border-color: #0084B4;
+    vertical-align: middle;
+}
+
+#searchBtn {
+    padding: 5px 30px 8px 30px;
+    margin: 10px;
+    border-radius: 5px;
+    background: #006600;
+    text-decoration: none;
+    font-size: 20px;
+    color: #ffffff;
+    box-shadow: 1px 1px 5px rgba(102, 0, 0, 0.5);
+}
+
+.errorContainer {
+    margin: 10px 10px;
+}
+
+#error {
+    text-align: center;
+    color: red;
+}
+
+.testContainer {
+    min-height: 100px;
+    max-width: 700px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: #A0C9E0;
+}
+
+.trendingContainer {
+    min-height: 100px;
+    max-width: 800px;
+    margin: auto;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: #A0C9E0;
+}
+
+    .trendingContainer a {
+        font-size: 20px;
+    }
+
+.trendHeader {
+    margin: 10px;
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.trend {
+    padding: 10px;
+    display: inline-block;
+}
+
+.transparent {
+    zoom: 1;
+    filter: alpha(opacity=50);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    opacity: 0.9;
+}
+
+.listsContainer {
+    min-height: 300px;
+    min-width: 1500px;
+    margin: 15px 30px 5px 30px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: #A0C9E0;
+}
+
+.logo {
+    height: 150px;
+    margin: 5px 10px;
+    padding: 5px 250px;
+}
+
+.searchingTag {
+    color: #000000;
+    font-size: 30px;
+    margin: 15px;
+}
+
+#twitterList {
+    float: left;
+    margin: 40px 10px 10px 80px;
+    width: 600px;
+}
+
+.tweet {
+    margin: 5px 20px 5px;
+    border: 1px solid #243127;
+    border-radius: 5px;
+    padding: 20px 10px 10px;
+    background-image: url(/Content/Images/gradient-bg.png);
+    background-repeat: repeat-x;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(246, 240, 255, 0.3)), to(#B9B9B9)); /* Chrome, Safari 4+ */
+    background-image: -webkit-linear-gradient(top, rgba(246, 240, 255, 0.3), #B9B9B9); /* Chrome 10-25, iOS 5+, Safari 5.1+ */
+    background-image: -moz-linear-gradient(top, rgba(246, 240, 255, 0.3), #B9B9B9); /* Firefox 3.6-15 */
+    background-image: -o-linear-gradient(top, rgba(246, 240, 255, 0.3), #B9B9B9); /* Opera 11.10-12.00 */
+    background-image: linear-gradient(top, rgba(246, 240, 255, 0.3), #B9B9B9); /* Chrome 26, Firefox 16+, IE 10+, Opera 12.10+ */
+    /*filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=rgba(246, 240, 255, 0.3) == #FF5C2F5A, endColorstr=#B9B9B9);
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient (GradientType=0, startColorstr=rgba(246, 240, 255, 0.3), endColorstr=#B9B9B9)";*/
+}
+
+.avatar {
+    border: 1px solid #647896;
+    border-radius: 5px;
+    margin: 10px 10px;
+    vertical-align: middle;
+}
+
+#instagramList {
+    float: right;
+    display: inline-block;
+    margin: 40px 80px 10px 10px;
+    width: 720px;
+}
+
+.instagram {
+    max-width: 328px;
+    vertical-align: bottom;
+    display: inline-block;
+    margin: 5px 5px 5px 5px;
+    border: 1px solid #243127;
+    border-radius: 5px;
+    padding: 20px 10px 10px;
+    /*float: left;*/
+    background-image: url(/Content/Images/gradient-bg.png);
+    background-repeat: repeat-x;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(246, 240, 255, 0.3)), to(#B9B9B9)); /* Chrome, Safari 4+ */
+    background-image: -webkit-linear-gradient(top, rgba(246, 240, 255, 0.3), #B9B9B9); /* Chrome 10-25, iOS 5+, Safari 5.1+ */
+    background-image: -moz-linear-gradient(top, rgba(246, 240, 255, 0.3), #B9B9B9); /* Firefox 3.6-15 */
+    background-image: -o-linear-gradient(top, rgba(246, 240, 255, 0.3), #B9B9B9); /* Opera 11.10-12.00 */
+    background-image: linear-gradient(top, rgba(246, 240, 255, 0.3), #B9B9B9); /* Chrome 26, Firefox 16+, IE 10+, Opera 12.10+ */
+    /*filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=rgba(246, 240, 255, 0.3) == #FF5C2F5A, endColorstr=#B9B9B9);
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient (GradientType=0, startColorstr=rgba(246, 240, 255, 0.3), endColorstr=#B9B9B9)";*/
+}
+
+    .instagram h5 {
+        word-wrap: break-word;
+    }
+
+.gramAvatar {
+    border: 1px solid #647896;
+    border-radius: 5px;
+    margin: 10px 10px;
+    vertical-align: middle;
+    width: 48px;
+    height: 48px;
+}
+
+a {
+    text-decoration: none;
+    color: #0044BE;
+}
+
+    a:hover {
+        color: #FF770B;
+    }
+
+.btncontainer {
+    position: relative;
+    padding: 20px 5px 40px 5px;
+}
+
+#paginationBtn {
+    padding: 5px 30px 8px 30px;
+    margin: 10px;
+    border-radius: 5px;
+    background: #006600;
+    text-decoration: none;
+    font-size: 20px;
+    color: #ffffff;
+    box-shadow: 1px 1px 5px rgba(102, 0, 0, 0.5);
+}
+
+.hidden {
+    display: none;
+}
+
+footer {
+    color: #ffffff;
+    float: right;
+    margin: 10px;
+    font-size: 10px;
+}

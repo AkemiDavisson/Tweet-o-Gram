@@ -1,0 +1,11 @@
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\GoogleClone\oAuthTwitter\bin\Debug\oAuthTwitter.dll.config
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\GoogleClone\oAuthTwitter\bin\Debug\oAuthTwitter.dll
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\GoogleClone\oAuthTwitter\bin\Debug\oAuthTwitter.pdb
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\GoogleClone\oAuthTwitter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\GoogleClone\oAuthTwitter\obj\Debug\oAuthTwitter.dll
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\GoogleClone\oAuthTwitter\obj\Debug\oAuthTwitter.pdb
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthTwitter\bin\Debug\oAuthTwitter.dll.config
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthTwitter\bin\Debug\oAuthTwitter.dll
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthTwitter\bin\Debug\oAuthTwitter.pdb
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthTwitter\obj\Debug\oAuthTwitter.dll
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthTwitter\obj\Debug\oAuthTwitter.pdb

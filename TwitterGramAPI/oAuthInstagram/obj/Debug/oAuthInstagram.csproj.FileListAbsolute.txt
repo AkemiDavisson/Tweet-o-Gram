@@ -1,0 +1,10 @@
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\GoogleClone\oAuthInstagram\bin\Debug\oAuthInstagram.dll
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\GoogleClone\oAuthInstagram\bin\Debug\oAuthInstagram.pdb
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\GoogleClone\oAuthInstagram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\GoogleClone\oAuthInstagram\obj\Debug\oAuthInstagram.csprojResolveAssemblyReference.cache
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\GoogleClone\oAuthInstagram\obj\Debug\oAuthInstagram.dll
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\GoogleClone\oAuthInstagram\obj\Debug\oAuthInstagram.pdb
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthInstagram\bin\Debug\oAuthInstagram.dll
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthInstagram\bin\Debug\oAuthInstagram.pdb
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthInstagram\obj\Debug\oAuthInstagram.dll
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthInstagram\obj\Debug\oAuthInstagram.pdb

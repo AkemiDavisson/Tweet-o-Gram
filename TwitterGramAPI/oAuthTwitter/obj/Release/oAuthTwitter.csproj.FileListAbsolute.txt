@@ -1,0 +1,6 @@
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthTwitter\obj\Release\oAuthTwitter.csprojResolveAssemblyReference.cache
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthTwitter\bin\Release\oAuthTwitter.dll.config
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthTwitter\bin\Release\oAuthTwitter.dll
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthTwitter\bin\Release\oAuthTwitter.pdb
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthTwitter\obj\Release\oAuthTwitter.dll
+C:\Users\Akemi_000\Documents\Visual Studio 2013\Projects\TwitterGramAPI\oAuthTwitter\obj\Release\oAuthTwitter.pdb
