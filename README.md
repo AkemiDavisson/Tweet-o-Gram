@@ -9,3 +9,4 @@ Utilizes the Rest API from both Twitter and Instagram and displays them on the p
 
 oAuth access tokens removed.
 
+Here's a working example of this project: http://twitter-gram.azurewebsites.net/#
